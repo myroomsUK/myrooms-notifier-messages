@@ -1,0 +1,21 @@
+{
+  "name": "myrooms/notifier-messages",
+  "description": "Myrooms Notifier contracts",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gabriele",
+      "email": "gabriele@myrooms.co.uk"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Myrooms\\Messages\\Notifier\\": ""
+    }
+  }
+}
