@@ -2,7 +2,7 @@
 
 namespace Myrooms\Messages\Notifier;
 
-class SlackMessage
+class SlackMessage implements NotifierMessage
 {
     /**
      * @var string
