@@ -1,6 +1,5 @@
 {
   "name": "myrooms/notifier-messages",
-  "version": "dev-main",
   "description": "Myrooms Notifier contracts",
   "minimum-stability": "dev",
   "license": "MIT",
